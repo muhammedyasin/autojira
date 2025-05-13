@@ -5,7 +5,7 @@
 # Jira API bilgileri
 JIRA_USERNAME="MAIL_ADRES"
 JIRA_API_KEY="API_KEY_TOKE"
-JIRA_URL="https://nirvana.atlassian.net/rest/api/2/issue/"
+JIRA_URL="https://xxxxx.atlassian.net/rest/api/2/issue/"
 
 # JSON request dosyası
 JSON_FILE="request.json"
